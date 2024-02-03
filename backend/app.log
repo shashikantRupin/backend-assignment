@@ -1,0 +1,40 @@
+info: [0mPOST /api/auth/signup [31m500[0m 368.779 ms - 35[0m
+ {"timestamp":"2024-02-03T20:37:36.020Z"}
+info: [0mPOST /api/auth/signup [33m400[0m 203.552 ms - 37[0m
+ {"timestamp":"2024-02-03T20:40:18.948Z"}
+info: [0mPOST /api/auth/signup [33m400[0m 350.787 ms - 37[0m
+ {"timestamp":"2024-02-03T20:40:46.940Z"}
+info: [0mPOST /api/auth/signup [31m500[0m 787.506 ms - 35[0m
+ {"timestamp":"2024-02-03T20:41:24.123Z"}
+info: [0mPOST /api/auth/signup [31m500[0m 785.999 ms - 35[0m
+ {"timestamp":"2024-02-03T20:42:17.727Z"}
+info: [0mPOST /api/auth/signup [31m500[0m 290.483 ms - 35[0m
+ {"timestamp":"2024-02-03T20:42:59.457Z"}
+info: [0mPOST /api/auth/signup [33m400[0m 1959.756 ms - 37[0m
+ {"timestamp":"2024-02-03T20:46:41.380Z"}
+info: [0mPOST /api/auth/signup [31m500[0m 512.240 ms - 35[0m
+ {"timestamp":"2024-02-03T20:47:02.167Z"}
+info: [0mPOST /api/auth/signup [33m400[0m 185.644 ms - 37[0m
+ {"timestamp":"2024-02-03T20:48:33.787Z"}
+info: [0mPOST /api/auth/signup [31m500[0m 891.280 ms - 35[0m
+ {"timestamp":"2024-02-03T20:48:50.678Z"}
+info: [0mPOST /api/auth/signup [33m400[0m 337.397 ms - 37[0m
+ {"timestamp":"2024-02-03T20:51:19.468Z"}
+info: [0mPOST /api/auth/signup [32m200[0m 546.431 ms - 185[0m
+ {"timestamp":"2024-02-03T20:51:38.985Z"}
+info: [0mPOST /api/auth/login [32m200[0m 418.826 ms - 195[0m
+ {"timestamp":"2024-02-03T20:52:47.977Z"}
+info: [0mPOST /api/auth/login [32m200[0m 487.398 ms - 193[0m
+ {"timestamp":"2024-02-03T20:53:45.271Z"}
+info: [0mPOST /api/books [32m200[0m 385.645 ms - 128[0m
+ {"timestamp":"2024-02-03T20:56:17.573Z"}
+info: [0mPOST /api/books [32m200[0m 255.849 ms - 130[0m
+ {"timestamp":"2024-02-03T20:57:55.095Z"}
+info: [0mPOST /api/books [32m200[0m 176.760 ms - 136[0m
+ {"timestamp":"2024-02-03T20:59:21.891Z"}
+info: [0mPOST /api/books [32m200[0m 321.836 ms - 139[0m
+ {"timestamp":"2024-02-03T21:00:30.286Z"}
+info: [0mPOST /api/books [32m200[0m 446.217 ms - 146[0m
+ {"timestamp":"2024-02-03T21:01:37.371Z"}
+info: [0mPOST /api/books [32m200[0m 306.753 ms - 157[0m
+ {"timestamp":"2024-02-03T21:02:21.885Z"}
