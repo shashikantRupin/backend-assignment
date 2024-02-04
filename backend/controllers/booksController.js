@@ -1,4 +1,4 @@
-// controllers/bookController.js
+
 const Book = require("../models/book");
 const getAllBooks = async (req, res) => {
   try {

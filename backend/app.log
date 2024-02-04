@@ -38,3 +38,7 @@ info: [0mPOST /api/books [32m200[0m 446.217 ms - 146[0m
  {"timestamp":"2024-02-03T21:01:37.371Z"}
 info: [0mPOST /api/books [32m200[0m 306.753 ms - 157[0m
  {"timestamp":"2024-02-03T21:02:21.885Z"}
+info: [0mGET /api/books [32m200[0m 484.765 ms - 843[0m
+ {"timestamp":"2024-02-03T21:15:15.388Z"}
+info: [0mGET /api/books [32m200[0m 355.322 ms - 843[0m
+ {"timestamp":"2024-02-03T21:16:34.276Z"}

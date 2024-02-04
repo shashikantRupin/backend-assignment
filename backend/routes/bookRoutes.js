@@ -1,4 +1,4 @@
-// routes/bookRoutes.js
+
 const express = require("express");
 const bookController = require("../controllers/booksController");
 const { logMiddleware } = require("../config/middleware");

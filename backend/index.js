@@ -7,8 +7,7 @@ const bookRoutes = require("./routes/bookRoutes");
 const app = express();
 
 app.use(morgan("dev"));
-app.use(express.json()); // Using express.json() for JSON parsing
-
+app.use(express.json()); 
 // Middleware for handling JSON parsing errors
 app.use((err, req, res, next) => {
   if (err instanceof SyntaxError && err.status === 400 && "body" in err) {
