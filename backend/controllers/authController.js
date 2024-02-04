@@ -5,7 +5,7 @@ require("dotenv").config();
 
 const generateToken = (user) => {
   return jwt.sign(
-    { username: user.username, roles: user.roles },
+    { name: user.name, role: user.role },
     process.env.JWT_SECRET,
     { expiresIn: "1h" }
   );
@@ -13,8 +13,8 @@ const generateToken = (user) => {
 
 const login = async (req, res) => {
   try {
-    const { username, password } = req.body;
-    const user = await User.findOne({ username });
+    const { name,email, password } = req.body;
+    const user = await User.findOne({ name });
 
     if (!user || !(await user.isValidPassword(password))) {
       return res.status(401).json({ message: "Invalid username or password" });
@@ -30,17 +30,17 @@ const login = async (req, res) => {
 
 const signup = async (req, res) => {
   try {
-    const { username, password, roles } = req.body;
+    const { name,email, password, role } = req.body;
 
     // Check if the user with the given username already exists
-    const existingUser = await User.findOne({ username });
+    const existingUser = await User.findOne({ name });
 
     if (existingUser) {
       return res.status(400).json({ message: "Username already exists" });
     }
 
     // Create a new user
-    const newUser = new User({ username, password, roles });
+    const newUser = new User({ name, email,password, role });
     await newUser.save();
 
     // Generate and return a token for the newly created user

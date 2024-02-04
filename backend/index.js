@@ -21,8 +21,8 @@ app.get("/", (req, res) => {
   res.json({ message: "server is running" });
 });
 
-app.use("/api/auth", authRoutes);
-app.use("/api/books", bookRoutes);
+app.use("/auth", authRoutes);
+app.use("/books", bookRoutes);
 
 
 const PORT = process.env.PORT || 3000;

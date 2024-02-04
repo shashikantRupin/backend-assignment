@@ -44,3 +44,47 @@ info: [0mGET /api/books [32m200[0m 355.322 ms - 843[0m
  {"timestamp":"2024-02-03T21:16:34.276Z"}
 info: [0mGET /api/books [32m200[0m 87.998 ms - 843[0m
  {"timestamp":"2024-02-04T06:31:47.441Z"}
+info: [0mGET /books [32m200[0m 340.583 ms - 843[0m
+ {"timestamp":"2024-02-04T08:50:50.670Z"}
+info: [0mPOST /auth/signup [31m500[0m 10021.995 ms - 35[0m
+ {"timestamp":"2024-02-04T09:21:40.958Z"}
+info: [0mPOST /api/auth/login [31m500[0m 10024.115 ms - 35[0m
+ {"timestamp":"2024-02-04T09:23:00.357Z"}
+info: [0mPOST /api/auth/signup [32m200[0m 818.685 ms - 209[0m
+ {"timestamp":"2024-02-04T09:29:36.856Z"}
+info: [0mPOST /api/auth/signup [31m500[0m 635.318 ms - 35[0m
+ {"timestamp":"2024-02-04T09:30:04.230Z"}
+info: [0mPOST /api/auth/signup [31m500[0m 510.852 ms - 35[0m
+ {"timestamp":"2024-02-04T09:30:27.890Z"}
+info: [0mPOST /api/auth/signup [31m500[0m 810.393 ms - 35[0m
+ {"timestamp":"2024-02-04T09:30:51.174Z"}
+info: [0mPOST /auth/signup [31m500[0m 703.649 ms - 35[0m
+ {"timestamp":"2024-02-04T09:44:46.110Z"}
+info: [0mPOST /auth/signup [31m500[0m 783.500 ms - 35[0m
+ {"timestamp":"2024-02-04T09:45:08.246Z"}
+info: [0mPOST /auth/signup [31m500[0m 201.947 ms - 35[0m
+ {"timestamp":"2024-02-04T09:47:17.833Z"}
+info: [0mPOST /auth/signup [31m500[0m 8.657 ms - 35[0m
+ {"timestamp":"2024-02-04T09:53:41.490Z"}
+info: [0mPOST /auth/signup [31m500[0m 9.009 ms - 35[0m
+ {"timestamp":"2024-02-04T09:54:47.546Z"}
+info: [0mPOST /auth/signup [31m500[0m 1019.078 ms - 35[0m
+ {"timestamp":"2024-02-04T09:55:31.611Z"}
+info: [0mPOST /auth/signup [31m500[0m 394.742 ms - 35[0m
+ {"timestamp":"2024-02-04T09:56:50.343Z"}
+info: [0mPOST /auth/signup [31m500[0m 850.584 ms - 35[0m
+ {"timestamp":"2024-02-04T09:57:09.727Z"}
+info: [0mPOST /auth/signup [31m500[0m 760.994 ms - 35[0m
+ {"timestamp":"2024-02-04T10:03:14.233Z"}
+info: [0mGET /books [0m-[0m - ms - -[0m
+ {"timestamp":"2024-02-04T10:04:05.263Z"}
+info: [0mPOST /auth/signup [31m500[0m 252.219 ms - 35[0m
+ {"timestamp":"2024-02-04T14:21:39.486Z"}
+info: [0mPOST /auth/signup [32m200[0m 292.908 ms - 173[0m
+ {"timestamp":"2024-02-04T14:29:08.996Z"}
+info: [0mPOST /auth/signup [31m500[0m 260.687 ms - 35[0m
+ {"timestamp":"2024-02-04T14:29:37.408Z"}
+info: [0mPOST /auth/signup [31m500[0m 10020.094 ms - 35[0m
+ {"timestamp":"2024-02-04T14:32:10.240Z"}
+info: [0mPOST /auth/signup [31m500[0m 10010.403 ms - 35[0m
+ {"timestamp":"2024-02-04T14:33:57.925Z"}
