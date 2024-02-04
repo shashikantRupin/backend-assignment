@@ -42,3 +42,5 @@ info: [0mGET /api/books [32m200[0m 484.765 ms - 843[0m
  {"timestamp":"2024-02-03T21:15:15.388Z"}
 info: [0mGET /api/books [32m200[0m 355.322 ms - 843[0m
  {"timestamp":"2024-02-03T21:16:34.276Z"}
+info: [0mGET /api/books [32m200[0m 87.998 ms - 843[0m
+ {"timestamp":"2024-02-04T06:31:47.441Z"}
